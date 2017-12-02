@@ -1,0 +1,5 @@
+spring:
+  profiles: dev,qa,prod
+
+
+message: DEFAULT
