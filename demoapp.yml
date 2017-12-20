@@ -2,4 +2,4 @@ spring:
   profiles: dev,qa,prod
 
 
-message: DEFAULT
+message: Hello from DEFAULT...use dev/qa/prod as ENV
